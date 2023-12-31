@@ -1,0 +1,10 @@
+{
+  "name": "Scrapcelium SeparX",
+  "description": "encryption messages for insecure social media web app using chrome extention",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "src/popup/popup.html"
+  },
+  "permissions": ["storage"]
+}
